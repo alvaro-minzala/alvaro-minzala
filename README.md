@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**alvaro-minzala/alvaro-minzala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Álvaro. I'm a high-school student and I like coding and playing Minecraft.
 
-Here are some ideas to get you started:
+Tech specs:
+Mac: MacBook(mid-2009)
+Intel Core 2 Duo
+idk what gpu it has but it's 256MB
+4GB of ram
+350GB of hard drive
+OS X El Capitan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PC 1:
+HP Laptop
+idk what specs
+128GB SSD
+Windows 10 Pro
+
+PC 2:
+HP Pavilion Desktop
+idk what specs(again)
+1TB of hard drive
+Windows 11 Pro
+
+PC 3:
+Acer Laptop
+idk what specs
+500GB of hard drive
+Windows 10 Pro
+
+(¬_¬)
