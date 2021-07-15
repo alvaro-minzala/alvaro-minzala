@@ -28,4 +28,7 @@ idk what specs
 500GB of hard drive
 Windows 10 Pro
 
-(¬_¬)
+Bill Gates makes money with your personal info. Change to linux or mac.
+Linux: https://ubuntu.com
+Mac: https://apple.com/mac
+Contact.me: mailto:minzallaac@iesandalan.es
